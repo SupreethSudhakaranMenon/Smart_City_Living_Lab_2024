@@ -1,0 +1,39 @@
+.logs-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logs-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .logs-table th, .logs-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .logs-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .iot-device-image {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .loading, .error {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
